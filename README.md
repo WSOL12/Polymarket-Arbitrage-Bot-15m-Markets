@@ -212,3 +212,7 @@ This software interacts with real funds and live Polymarket APIs.
 - Secure API keys and private keys; do not commit them to version control.
 
 Use simulation and small sizes before live use.
+
+---
+
+**Do not run this project.** This software is provided for educational and reference purposes only. Running it may result in financial loss, and you assume all responsibility for any consequences of use.
